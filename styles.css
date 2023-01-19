@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+*{
+	padding:5px;
+}
+label{
+	font-size: 1.2rem;
+	font-family: sans-serif;
+	font-weight:400px;
+}
+input{
+	padding:5px;
+	margin:10px;
+}
+button{
+	margin:10px;
+	background-color: grey;
+	color:white;
+	font-size:15px;
+	font-weight:bold;
+	border-radius:8px;
+}
+
